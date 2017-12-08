@@ -1,0 +1,10 @@
+/Users/hunter/Repos/dotnet projects/hello-world/bin/Debug/netcoreapp2.0/hello-world.deps.json
+/Users/hunter/Repos/dotnet projects/hello-world/bin/Debug/netcoreapp2.0/hello-world.runtimeconfig.json
+/Users/hunter/Repos/dotnet projects/hello-world/bin/Debug/netcoreapp2.0/hello-world.runtimeconfig.dev.json
+/Users/hunter/Repos/dotnet projects/hello-world/bin/Debug/netcoreapp2.0/hello-world.dll
+/Users/hunter/Repos/dotnet projects/hello-world/bin/Debug/netcoreapp2.0/hello-world.pdb
+/Users/hunter/Repos/dotnet projects/hello-world/obj/Debug/netcoreapp2.0/hello-world.csproj.CoreCompileInputs.cache
+/Users/hunter/Repos/dotnet projects/hello-world/obj/Debug/netcoreapp2.0/hello-world.AssemblyInfoInputs.cache
+/Users/hunter/Repos/dotnet projects/hello-world/obj/Debug/netcoreapp2.0/hello-world.AssemblyInfo.cs
+/Users/hunter/Repos/dotnet projects/hello-world/obj/Debug/netcoreapp2.0/hello-world.dll
+/Users/hunter/Repos/dotnet projects/hello-world/obj/Debug/netcoreapp2.0/hello-world.pdb
